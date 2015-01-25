@@ -1,4 +1,4 @@
-sub DeleteCells
+sub  DeleteCells
 	Dim lCellsToBeDeleted As Long
 	lCellsToBeDeleted = Cells(Rows.Count, "A").End(xlUp).Row
 	If lCellsToBeDeleted > 9 Then
