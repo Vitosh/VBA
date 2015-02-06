@@ -1,3 +1,8 @@
+﻿'NOTE - THE CODE IS VBA!
+'This is a way to run it -> http://www.vitoshacademy.com/vba-how-to-start/
+'Enjoy it!
+'The code works.
+
 Option Explicit
 Public Const LETTERS_IN_ALPHABET = 26
 

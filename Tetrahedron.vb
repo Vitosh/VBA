@@ -1,3 +1,8 @@
+'NOTE - THE CODE IS VBA!
+'This is a way to run it -> http://www.vitoshacademy.com/vba-how-to-start/
+'Enjoy it!
+'The code works.
+
 Option Explicit
 
 Public Function fill_tetrahedron(ByVal num As Integer) As Double
